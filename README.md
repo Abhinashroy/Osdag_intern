@@ -21,8 +21,7 @@ This module designs a bolted lap joint connecting two steel plates under a given
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
-   cd Analyze_ss_movingload
+   git clone https://github.com/Abhinashroy/Osdag_intern.git
    ```
 
 2. **Run the Python Script:**
